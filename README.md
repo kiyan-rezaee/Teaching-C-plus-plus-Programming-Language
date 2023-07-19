@@ -6,4 +6,4 @@
 ### Week four : Arrays and strings
 ### Week five : Structure and classes 
 ### Week six : Working with files 
-### Week seven : Graphics in C++ 
+### Week seven : Important mathematical functions in C++
